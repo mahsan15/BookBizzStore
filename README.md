@@ -6,9 +6,6 @@
 
 ![bookbizzLanding page](https://github.com/mahsan15/BookBizzStore/assets/82739557/e4c3a096-ad9b-4903-99f6-4f356c2c24cb)
 
-![bookbizzLanding page](ht![bookbizzLanding page](https://github.com/mahsan15/BookBizzStore/assets/82739557/de649c22-ba0b-4686-a555-ffcd0a109ccf)
-tps://github.com/mahsan15/BookBizzStore/assets/82739557/dca407bd-6a19-4f91-bcd3-f2c7a259b2dd)
-
 ![bbregister](https://github.com/mahsan15/BookBizzStore/assets/82739557/fbfe2b27-b41b-44ca-a4b8-3e599fce5f4d)
 
 ![bblogin](https://github.com/mahsan15/BookBizzStore/assets/82739557/b7232858-e9b4-4f71-a934-02717d58dfe4)
