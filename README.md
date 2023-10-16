@@ -15,7 +15,6 @@ merlogin](https:/![bbcart](https://github.com/mahsan15/BookBizzStore/assets/8273
 .com/mahsan15/BookBizzStore/assets/82739557/a6992388-dbe3-4eaa-b532-774a0d88bf39)
 ![bbabout](https://github.com/mahsan15/BookBizzStore/assets/82739557/c19a61f2-baba-4db8-8910-d1359d23bc6e)
 
-![bbabout](https://github.com/mahsan15/BookBizzStore/assets/82739557/a8b4a9f9-7ebc-4735-be46-1cba405b41a8)
 
 
 ### About
