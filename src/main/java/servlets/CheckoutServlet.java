@@ -20,7 +20,7 @@ public class CheckoutServlet extends HttpServlet {
         if (!StoreUtil.isLoggedIn(UserRole.CUSTOMER, req.getSession())) {
             RequestDispatcher rd = req.getRequestDispatcher("CustomerLogin.html");
             rd.include(req, res);
-            pw.println("<table class=\"tab\"><tr><td>Please Login First to Continue!!</td></tr></table>");
+            pw.println("<table class=\"tab\"><tr><td>Please Login First to Continue!</td></tr></table>");
             return;
         }
         try {
@@ -28,7 +28,7 @@ public class CheckoutServlet extends HttpServlet {
             RequestDispatcher rd = req.getRequestDispatcher("payment.html");
             rd.include(req, res);
             StoreUtil.setActiveTab(pw, "cart");
-            pw.println("Total Amount<span class=\"price\" style=\"color: black\"><b>&#8377; "
+            pw.println("Total Amount<span class=\"price\" style=\"color: black\"><b>&#36; "
                     + req.getSession().getAttribute("amountToPay")
                     + "</b></span>");
 

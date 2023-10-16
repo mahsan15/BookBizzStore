@@ -91,7 +91,7 @@ public class ViewBookServlet extends HttpServlet {
         String button = "";
         if (bQty > 0) {
             // If no items in the cart, show add to cart button
-            // If items is added to the cart, then show +, - button to add/remove more items
+            // If items is added to the cart, then show +, - button to add/remove more itemsb
             button = "<form action=\"viewbook\" method=\"post\">"
                     + "<input type='hidden' name = 'selectedBookId' value = " + bCode + ">"
                     + "<input type='hidden' name='qty_" + bCode + "' value='1'/>"
@@ -111,7 +111,7 @@ public class ViewBookServlet extends HttpServlet {
         // Bootstrap card to show the book data
         return "<div class=\"card\">\r\n"
                 + "                <div class=\"row card-body\">\r\n"
-                + "                    <img class=\"col-sm-6\" src=\"logo.png\" alt=\"Card image cap\">\r\n"
+                + "                    <img class=\"col-sm-6\" src=\"logo2.png\" alt=\"Card image cap\">\r\n"
                 + "                    <div class=\"col-sm-6\">\r\n"
                 + "                        <h5 class=\"card-title text-success\">" + book.getName() + "</h5>\r\n"
                 + "                        <p class=\"card-text\">\r\n"
@@ -132,7 +132,7 @@ public class ViewBookServlet extends HttpServlet {
                 + "                    </div>\r\n"
                 + "                    <div class=\"col-sm-6\">\r\n"
                 + "                        <p class=\"card-text\">\r\n"
-                + "                        Price: <span style=\"font-weight:bold; color:green\"> &#8377; "
+                + "                        Price: <span style=\"font-weight:bold; color:green\"> &#36; "
                 + book.getPrice()
                 + " </span>\r\n"
                 + "                        </p>\r\n"
