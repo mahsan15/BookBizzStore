@@ -3,7 +3,8 @@
 
 - Admin Login Credentials: (Admin/Admin)
 <hr>
-![bookbizzLanding page](https://github.com/mahsan15/BookBizzStore/assets/82739557/dca407bd-6a19-4f91-bcd3-f2c7a259b2dd)
+![bookbizzLanding page](ht![bookbizzLanding page](https://github.com/mahsan15/BookBizzStore/assets/82739557/de649c22-ba0b-4686-a555-ffcd0a109ccf)
+tps://github.com/mahsan15/BookBizzStore/assets/82739557/dca407bd-6a19-4f91-bcd3-f2c7a259b2dd)
 
 ![bbregister](https://github.com/mahsan15/BookBizzStore/assets/82739557/fbfe2b27-b41b-44ca-a4b8-3e599fce5f4d)
 
