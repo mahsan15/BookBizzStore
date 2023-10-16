@@ -20,7 +20,8 @@ merlogin](https:/![bbcart](https://github.com/mahsan15/BookBizzStore/assets/8273
 
 ### About
 
-A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
+Summary:
+This project is an online bookstore with user registration, book viewing, selection, and purchase functionalities. Users can receive payment receipts. Administrators can manage books and sales history. The project is built using Java, JDBC, and Servlets, employing HTML, CSS, JavaScript, and Bootstrap for the frontend. MySQL is used for the database. Required tools include Git, Java JDK 8+, Eclipse EE, Apache Maven, Tomcat v8.0+, MySQL Server, and optionally MySQL Workbench.
 
 
 <span style="color:blue">**This Website is built for following purpose:-**</span>
@@ -61,7 +62,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 3. Database:
 - MySql
 
-### ================ Software And Tools Required ================
+Software And Tools Required ================
 - : Git 
 - : Java JDK 8+
 - : Eclipse EE
@@ -70,7 +71,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - : MySQL Server
 - : MySQL Workbench (optional) 
 
-### ================= Dummy Database Initialization =================
+Dummy Database Initialization =================
 
 STEP 1: Open MySQL Command Prompt or MySQL Workbench
 
